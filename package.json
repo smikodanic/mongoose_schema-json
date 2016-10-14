@@ -1,6 +1,6 @@
 {
   "name": "mongoose_schema-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert mongoose schema object to JSON, and vice versa.",
   "main": "converter.js",
   "scripts": {
