@@ -27,7 +27,7 @@ var schemaObj = {
 // mongoose schema in JSON notation
 
 var jsonStr = {
-	"name": {"type": "String", "lowercase": "true"},
+	"name": {"type": "String", "lowercase": true},
 	"age": "Number",
 	"born": "Date",
 	"isActive": "Boolean",
