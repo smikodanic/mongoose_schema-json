@@ -1,0 +1,31 @@
+{
+  "name": "mongoose_schema-json",
+  "version": "1.0.0",
+  "description": "Convert mongoose schema object to JSON, and vice versa.",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smikodanic/mongoose_schema-json.git"
+  },
+  "keywords": [
+    "mongoose",
+    "mongoose schema",
+    "json",
+    "converter",
+    "mongoose schema to json",
+    "json to mongoose schema",
+    "convert mongoose schema"
+  ],
+  "author": "Sasa Mikodanic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smikodanic/mongoose_schema-json/issues"
+  },
+  "homepage": "https://github.com/smikodanic/mongoose_schema-json#readme",
+  "dependencies": {
+    "mongoose": "^4.6.3"
+  }
+}
