@@ -19,7 +19,9 @@
     "json to mongoose schema",
     "convert mongoose schema",
     "mongoose to json",
-    "json to mongoose"
+    "json to mongoose",
+    "mongoose json",
+    "json mongoose"
   ],
   "author": "Sasa Mikodanic",
   "license": "MIT",
